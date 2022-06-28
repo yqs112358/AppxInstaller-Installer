@@ -2,7 +2,7 @@
 
 > Thanks for **Online link generator for Microsoft Store** project
 
-`Desktop App Instraller` from [Microsoft Corporation](https://apps.microsoft.com/store/search?hl=zh-cn&gl=CN&publisher=Microsoft Corporation) ® is a simple tool for those who don't have a **Microsoft Store** (like Windows10 LTSC) to install **.appx** or **.msixbundle** files more easily.
+`Desktop App Instraller` from Microsoft Corporation® is a simple tool for those who don't have a **Microsoft Store** (like Windows10 LTSC) to install **.appx** or **.msixbundle** files more easily.
 
 However, it's interesting that this "Installer" itself need to be installed in Microsoft Store. So it is inconvinent in a real pure LTSC to install any UWP application.
 
