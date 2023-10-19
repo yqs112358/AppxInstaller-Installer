@@ -13,7 +13,7 @@ Then, to get more offline **.appx** packages, please 👉 [Online link generator
 
 ## Usage
 
-1. Download zip from [Release](https://github.com/yqs112358/AppxInstaller-Installer/releases)
+1. Download zip from [Release](https://github.com/yqs112358/AppxInstaller-Installer/releases), uncomporess it.
 2. Double click `Install.cmd` to install Desktop App Instraller.
 3. Wait for `All packages installed.` message.
 4. Close the console. From now on, you can double-click an **.appx** or **.msixbundle** file to install it directly.
