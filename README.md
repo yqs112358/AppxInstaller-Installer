@@ -9,8 +9,7 @@ However, it's interesting that this "Installer" itself need to be installed in M
 This project helps you to install `Desktop App Instraller` to break the first window.  
 Then, to get more offline **.appx** packages, please 👉 [Online link generator for Microsoft Store](https://store.rg-adguard.net/)
 
-![image](https://github.com/yqs112358/AppxInstaller-Installer/assets/37969157/e13de645-9263-41a5-8d2e-006f37f3c873)
-
+![image](https://github.com/yqs112358/AppxInstaller-Installer/assets/37969157/9f02e825-ffdd-4b38-8ef4-a9ea047f524b)
 
 ## Usage
 
